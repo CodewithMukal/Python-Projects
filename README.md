@@ -1,4 +1,7 @@
-#  This repository contains the projects that i will create in Python.
+#  PYTHON PROJECTS
+
+
+This repo will include all the python projects i will make :).
 
 
 These might be simple or impressive, but will show my growth over the years.
