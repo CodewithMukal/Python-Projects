@@ -23,3 +23,18 @@ These might be simple or impressive, but will show my growth over the years.
 
             - similar to rock, paper, scissors
             - points system
+
+
+3. NumberGuess Game
+
+      Uploaded on : 01/01/2025
+
+         - user selects a custom range of numbers
+         - have to guess a random number chosen from that range while getting hints
+
+4. WordGuess Game
+
+      Uploaded on : 01/01/2025
+
+         - user enters a list of words
+         - have to guess a random word chosen from that list in minimum attempts
