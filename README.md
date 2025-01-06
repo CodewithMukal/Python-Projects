@@ -41,3 +41,11 @@ These might be simple or impressive, but will show my growth over the years.
 
          - user enters a list of words
          - have to guess a random word chosen from that list in minimum attempts
+
+
+5. Strong Password Generator
+
+      Uploaded on : 06/06/2025
+
+         - creates a strong password
+         - user can input how many characters are needed
