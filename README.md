@@ -51,7 +51,7 @@ These can be simple or impressive, but will show my growth over the years.
          - user can input how many characters are needed
 
 
-##REQUIREMENTS
+## REQUIREMENTS
 
 
 No need as all scripts(as of now) are made using in-built python Libraries.
@@ -59,4 +59,4 @@ No need as all scripts(as of now) are made using in-built python Libraries.
 
 
 
-##HOW TO USE
+## HOW TO USE
