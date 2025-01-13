@@ -9,7 +9,7 @@ These can be simple or impressive, but will show my growth over the years.
 
 
 
-1. [CodeDecode](https://github.com/CodewithMukal/Python-Projects/blob/main/CodeDecode.py):(Code With Harry: 100 Days of Code Python , Problem 4)
+1. [CodeDecode](https://github.com/CodewithMukal/Python-Projects/tree/main/CodeDecode):(Code With Harry: 100 Days of Code Python , Problem 4)
    
     Uploaded on : 26/12/24
    
@@ -20,7 +20,7 @@ These can be simple or impressive, but will show my growth over the years.
 
 
 
-2. [Snake Water Gun Game](https://github.com/CodewithMukal/Python-Projects/blob/main/snakewatergun.py)(Code with Harry: 100 Days of Code Python, Problem 5)
+2. [Snake Water Gun Game](https://github.com/CodewithMukal/Python-Projects/tree/main/Snake%20Water%20Gun%20Game)(Code with Harry: 100 Days of Code Python, Problem 5)
 
       Uploaded on : 28/12/24
 
@@ -28,14 +28,14 @@ These can be simple or impressive, but will show my growth over the years.
             - points system
 
 
-3. [NumberGuess Game](https://github.com/CodewithMukal/Python-Projects/blob/main/numberguess.py)
+3. [NumberGuess Game](https://github.com/CodewithMukal/Python-Projects/tree/main/Number%20Guess%20Game)
 
       Uploaded on : 01/01/2025
 
          - user selects a custom range of numbers
          - have to guess a random number chosen from that range while getting hints
 
-4. [WordGuess Game](https://github.com/CodewithMukal/Python-Projects/blob/main/wordguess.py)
+4. [WordGuess Game](https://github.com/CodewithMukal/Python-Projects/tree/main/WordGuess%20Game)
 
       Uploaded on : 01/01/2025
 
@@ -43,7 +43,7 @@ These can be simple or impressive, but will show my growth over the years.
          - have to guess a random word chosen from that list in minimum attempts
 
 
-5. [Strong Password Generator](https://github.com/CodewithMukal/Python-Projects/blob/main/passgen.py)
+5. [Strong Password Generator](https://github.com/CodewithMukal/Python-Projects/tree/main/Strong%20Password%20Generator)
 
       Uploaded on : 06/06/2025
 
@@ -54,9 +54,21 @@ These can be simple or impressive, but will show my growth over the years.
 ## REQUIREMENTS
 
 
-No need as all scripts(as of now) are made using in-built python Libraries.
+**Check Folder**
 
 
 
 
 ## HOW TO USE
+1. Clone repository using
+
+         mkdir PythonProjects
+         cd PythonProjects
+         git clone https://github.com/CodewithMukal/Python-Projects.git
+
+2. Install requirements(if given) using
+
+         pip install requirements.txt
+
+3. Run the python file.(Make sure python is installed).
+   
