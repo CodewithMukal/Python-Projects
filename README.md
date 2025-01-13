@@ -4,12 +4,13 @@
 This repo will include all the python projects i will make :).
 
 
-These might be simple or impressive, but will show my growth over the years.
+These can be simple or impressive, but will show my growth over the years.
 
 
 
 
-1. Code/Decode:(Code With Harry: 100 Days of Code Python , Problem 4)
+1. [CodeDecode](https://github.com/CodewithMukal/Python-Projects/blob/main/CodeDecode.py) script on GitHub.
+:(Code With Harry: 100 Days of Code Python , Problem 4)
    
     Uploaded on : 26/12/24
    
