@@ -49,3 +49,14 @@ These can be simple or impressive, but will show my growth over the years.
 
          - creates a strong password
          - user can input how many characters are needed
+
+
+#REQUIREMENTS
+
+
+No need as all scripts(as of now) are made using in-built python Libraries.
+
+
+
+
+#HOW TO USE
