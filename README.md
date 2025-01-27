@@ -1,10 +1,12 @@
 ##  PYTHON PROJECTS
 
 
+Hey
+<br>
 This repo will include all the python projects i will make :).
 
 
-These can be simple or impressive, but will show my growth over the years.
+These can be simple or impressive, but will show my growth over the years...
 
 
 
